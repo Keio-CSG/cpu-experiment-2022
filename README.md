@@ -1,29 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [CSG-CPU-experiment](#csg-cpu-experiment)
-- [ver](#ver)
-- [前準備](#%E5%89%8D%E6%BA%96%E5%82%99)
-- [実験目的](#%E5%AE%9F%E9%A8%93%E7%9B%AE%E7%9A%84)
-    - [身につく技術](#%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F%E6%8A%80%E8%A1%93)
-- [1日目](#1%E6%97%A5%E7%9B%AE)
-  - [自己紹介](#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
-  - [このセミナー開始にあたって](#%E3%81%93%E3%81%AE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%A7%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6)
-    - [環境設定](#%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A)
-    - [テキスト](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88)
-  - [1日目終了後課題](#1%E6%97%A5%E7%9B%AE%E7%B5%82%E4%BA%86%E5%BE%8C%E8%AA%B2%E9%A1%8C)
-- [2日目](#2%E6%97%A5%E7%9B%AE)
-  - [2日目課題](#2%E6%97%A5%E7%9B%AE%E8%AA%B2%E9%A1%8C)
-- [3日目](#3%E6%97%A5%E7%9B%AE)
-  - [3日目課題](#3%E6%97%A5%E7%9B%AE%E8%AA%B2%E9%A1%8C)
-  - [単純命令セット](#%E5%8D%98%E7%B4%94%E5%91%BD%E4%BB%A4%E3%82%BB%E3%83%83%E3%83%88)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # CSG-CPU-experiment
 - [CSG-CPU-experiment](#csg-cpu-experiment)
-- [ver](#ver)
 - [前準備](#前準備)
 - [実験目的](#実験目的)
     - [身につく技術](#身につく技術)
@@ -37,11 +14,6 @@
   - [シミュレータ動作確認＋最初の設計](#シミュレータ動作確認最初の設計)
     - [テキスト](#テキスト)
   - [1日目終了後課題](#1日目終了後課題)
-
-# ver
-* 2022/11/1 2022年度のTA用に改定
-
-TODO: 学生配布用のrepoを作成した方が良い。作成する回路は空白にしておかないと正解が書いてあるので面白くない。
 
 # 前準備
 
@@ -72,8 +44,6 @@ TODO: 学生配布用のrepoを作成した方が良い。作成する回路は�
 * 吉岡、TAの自己紹介
 
 * みんなの自己紹介
-
-~~ペアを作成~~(結局各自で作った)
 
 ## このセミナー開始にあたって
 
